@@ -4,6 +4,12 @@
 
 인사관리 시스템(ERP)에 관한 풀스택 웹 애플리케이션 프로젝트입니다.
 
+![메인화면](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.jpg?raw=true)
+
+![근무일정](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%EA%B7%BC%EB%AC%B4%EC%9D%BC%EC%A0%95.jpg?raw=true)
+
+![포인트샵](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%83%B5.jpg?raw=true)
+
 ## 프로젝트 개요
 
 ![11](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/PPT%EC%9E%90%EB%A3%8C/11.jpg?raw=true)
@@ -65,13 +71,12 @@ frontend
 
 ![23](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/PPT%EC%9E%90%EB%A3%8C/23.jpg?raw=true)
 
-
 ## 기여자
 
 ![2](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/PPT%EC%9E%90%EB%A3%8C/2.jpg?raw=true)
 
-- [김솔비](https://github.com/solfany)
 - [홍준이](https://github.com/junyihong)
+- [김솔비](https://github.com/solfany)
 - [김자겸](https://github.com/cjwo-n)
 - [조정원](https://github.com/JG-basic)
 
