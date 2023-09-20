@@ -49,8 +49,8 @@ import {
 
 import avatar1 from 'src/assets/images/avatars/솔비.jpg';
 import avatar2 from 'src/assets/images/avatars/준이.jpg';
-import avatar3 from 'src/assets/images/avatars/3.jpg';
-import avatar4 from 'src/assets/images/avatars/4.jpg';
+import avatar3 from 'src/assets/images/avatars/자겸.jpg';
+import avatar4 from 'src/assets/images/avatars/정원.jpg';
 import avatar5 from 'src/assets/images/avatars/5.jpg';
 import avatar6 from 'src/assets/images/avatars/6.jpg';
 
