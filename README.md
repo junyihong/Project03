@@ -65,9 +65,6 @@ frontend
 
 ![23](https://github.com/junyihong/Project03/blob/main/%EA%B4%80%EB%A0%A8%EB%AC%B8%EC%84%9C/PPT%EC%9E%90%EB%A3%8C/23.jpg?raw=true)
 
-## 프로젝트 설정
-
-프로젝트를 로컬 환경에서 실행하기 위한 설정 및 실행 방법에 대한 정보는 [여기](./docs/setup.md)에서 확인할 수 있습니다.
 
 ## 기여자
 
